@@ -31,9 +31,9 @@
 
 | Program | Description |
 |---------|-------------|
-| [Hello World](Java Programs/HelloWorld.java) | Prints Hello World |
-| [Factorial](Java Programs/Factorial.java) | Calculates factorial |
-| [Palindrome](Java Programs/Palindrome.java) | Checks palindrome |
+| [Hello World](java/HelloWorld.java) | Prints Hello World |
+| [Factorial](java/Factorial.java) | Calculates factorial |
+| [Palindrome](java/Palindrome.java) | Checks palindrome |
 
 ---
 
