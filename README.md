@@ -23,7 +23,7 @@
 
 | Program | Description |
 |---------|-------------|
-| [Hello World](Python/hello_world.py) | Prints Hello World |
+| [Hello World](Python/basic.py) | Prints Hello World |
 | [Factorial](Python/factorial.py) | Calculates factorial |
 | [Palindrome](Python/palindrome.py) | Checks palindrome |
 
