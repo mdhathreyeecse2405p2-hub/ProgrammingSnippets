@@ -21,9 +21,9 @@
 
 | Program | Description |
 |---------|-------------|
-| [Hello World](Python/hello_world.py) | Prints Hello World |
-| [Factorial](Python/factorial.py) | Calculates factorial |
-| [Palindrome](Python/palindrome.py) | Checks palindrome |
+| [Hello World](python/hello_world.py) | Prints Hello World |
+| [Factorial](python/factorial.py) | Calculates factorial |
+| [Palindrome](python/palindrome.py) | Checks palindrome |
 
 ---
 
@@ -31,9 +31,9 @@
 
 | Program | Description |
 |---------|-------------|
-| [Hello World](Java/HelloWorld.java) | Prints Hello World |
-| [Factorial](Java/Factorial.java) | Calculates factorial |
-| [Palindrome](Java/Palindrome.java) | Checks palindrome |
+| [Hello World](Java Programs/HelloWorld.java) | Prints Hello World |
+| [Factorial](Java Programs/Factorial.java) | Calculates factorial |
+| [Palindrome](Java Programs/Palindrome.java) | Checks palindrome |
 
 ---
 
@@ -41,9 +41,9 @@
 
 | Program | Description |
 |---------|-------------|
-| [Hello World](JavaScript/helloWorld.js) | Prints Hello World |
-| [Factorial](JavaScript/factorial.js) | Calculates factorial |
-| [Palindrome](JavaScript/palindrome.js) | Checks palindrome |
+| [Hello World](JavaSript/helloWorld.js) | Prints Hello World |
+| [Factorial](JavaSript/factorial.js) | Calculates factorial |
+| [Palindrome](JavaSript/palindrome.js) | Checks palindrome |
 
 ---
 
