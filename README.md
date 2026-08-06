@@ -1,8 +1,6 @@
 # ProgrammingSnippets
 
 
-# Programming Snippets
-
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/USERNAME/Programming-Snippets)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/USERNAME/Programming-Snippets)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -23,7 +21,7 @@
 
 | Program | Description |
 |---------|-------------|
-| [Hello World](Python/basic.py) | Prints Hello World |
+| [Hello World](Python/hello_world.py) | Prints Hello World |
 | [Factorial](Python/factorial.py) | Calculates factorial |
 | [Palindrome](Python/palindrome.py) | Checks palindrome |
 
